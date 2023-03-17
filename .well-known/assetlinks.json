@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.btbottle.acquabtbottleapp",
+    "sha256_cert_fingerprints":
+    ["FC:12:6E:1A:D4:C0:36:3F:B4:BE:62:8A:78:CD:FA:18:F6:56:9C:5F:30:B6:A6:D5:DA:6B:B3:5B:0D:66:27:E2"]
+  }
+}]
